@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todolist-react-pratice/static/css/main.629560e8.css",
+    "main.js": "/todolist-react-pratice/static/js/main.f2fc9185.js",
+    "index.html": "/todolist-react-pratice/index.html",
+    "main.629560e8.css.map": "/todolist-react-pratice/static/css/main.629560e8.css.map",
+    "main.f2fc9185.js.map": "/todolist-react-pratice/static/js/main.f2fc9185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.629560e8.css",
+    "static/js/main.f2fc9185.js"
+  ]
+}
